@@ -1,0 +1,14 @@
+name       : python-editor
+version    : 1.0.3
+release    : 1
+source     :
+    - https://github.com/fmoo/python-editor/archive/1.0.3.tar.gz : e627a2160bdf5e435dcde964cf38bae39c02cdd8da2ccf5fac313b2ca453e2a3
+license    : Apache-2.0
+component  : programming.python
+summary    : Programmatically open an editor, capture the result.
+description: |
+    python-editor is a library that provides the editor module for programmatically interfacing with your system's $EDITOR.
+build      : |
+    %python3_setup
+install    : |
+    %python3_install
