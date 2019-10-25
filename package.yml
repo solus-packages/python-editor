@@ -1,8 +1,8 @@
 name       : python-editor
-version    : 1.0.3
-release    : 1
+version    : 1.0.4
+release    : 2
 source     :
-    - https://github.com/fmoo/python-editor/archive/1.0.3.tar.gz : e627a2160bdf5e435dcde964cf38bae39c02cdd8da2ccf5fac313b2ca453e2a3
+    - https://files.pythonhosted.org/packages/0a/85/78f4a216d28343a67b7397c99825cff336330893f00601443f7c7b2f2234/python-editor-1.0.4.tar.gz : 51fda6bcc5ddbbb7063b2af7509e43bd84bfc32a4ff71349ec7847713882327b
 license    : Apache-2.0
 component  : programming.python
 summary    : Programmatically open an editor, capture the result.
